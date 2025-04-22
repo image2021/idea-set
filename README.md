@@ -39,13 +39,13 @@
 
 - 使用始皇的：[ja-netfilter](https://gitee.com/ja-netfilter/ja-netfilter) 激活，相关文件已在 crack 文件夹下，参考如下步骤激活：
 
-  1. 找到 crack 文件夹下的所有文件（ja-netfilter.zip、config.zip、activation_code.txt）复制到你本地文件夹中
+  1. 找到 crack 文件夹下的所有文件（ja-netfilter.zip、config文件夹、activation_code.txt）复制到你本地文件夹中
 
   2. 解压并覆盖 `config` 到 `ja-netfilter` 原本的 `config`
 
   3. 修改 IDEA 的 `idea.vmoptions` 文件（文件在哪，Google 一下）
 
-     Mac 上的地址：`~/Library/Application Support/JetBrains/IntelliJIdea2024.2/idea.vmoptions`
+     Mac 上的地址：`~/Library/Application Support/JetBrains/IntelliJIdea2025.1/idea.vmoptions`
 
      在末尾填上：
 
