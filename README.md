@@ -11,6 +11,7 @@
     * [正式激活](#正式激活)
     * [利用开源项目激活](#利用开源项目激活)
     * [非正式激活（推荐）](#非正式激活推荐)
+    * [非正式激活-支持功能列表](#非正式激活-支持功能列表)
   * [配置同步](#配置同步)
     * [JetBrains 账号配置同步（推荐）](#jetbrains-账号配置同步推荐)
     * [GitHub 远程配置同步](#github-远程配置同步)
@@ -77,10 +78,15 @@
 
   4. 打开IDEA，填入激活码（activation_code.txt 文件内容）
 
-  5. ~~插件破解：需要猴油（tampermonkey）脚本, 解压 `tampermonkey.js.zip` 后，手动添加脚本到猴油中，打开 [https://plugins.jetbrains.com](https://plugins.jetbrains.com/) 搜索你想要激活的插件, 点击 `Generate Code` 按钮就能得到该插件的激活码, 粘入到插件的 `Activation Code` 中即可~~（插件破解机制存在 linux.do 访问权限问题，请自行解决）
 
 - 当然，有能力的还是推荐购买正版激活
 
+### 非正式激活-支持功能列表
+
+- IntelliJ IDEA 激活
+- 付费插件激活：存在访问权限问题，自行解决后可正常使用。（配合猴油脚本，解压 `tampermonkey.js.zip` 后，手动添加脚本到猴油中，打开 [https://plugins.jetbrains.com](https://plugins.jetbrains.com/) 搜索你想要激活的插件, 点击 `Generate Code` 按钮就能得到该插件的激活码, 粘入到插件的 `Activation Code` 中即可）
+- ~~GitHub Copilot 激活，cocopilot 公车已废弃~~
+- Augment 激活：下载 Augment 插件，点击 Sign In 按钮完成授权，即可无限免费使用 Claude Sonnet 4 系列模型（代码开发和编程最强模型）
 
 ## 配置同步
 
