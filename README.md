@@ -1,6 +1,6 @@
 # IntelliJ IDEA 个人使用及配置
 
-本项目仅用于个人学习与参考，请勿用于商业用途。对于使用本项目造成的任何后果均与作者无关。如有侵权，请联系立即删除。
+本项目仅用于个人学习与参考，请勿转载分发、请勿用于商业用途。对于使用本项目造成的任何后果均与作者无关。如有侵权，请联系立即删除。
 
 ## 简介
 
@@ -86,7 +86,7 @@
 - IntelliJ IDEA 激活
 - 付费插件激活：存在访问权限问题，自行解决后可正常使用。（配合猴油脚本，解压 `tampermonkey.js.zip` 后，手动添加脚本到猴油中，打开 [https://plugins.jetbrains.com](https://plugins.jetbrains.com/) 搜索你想要激活的插件, 点击 `Generate Code` 按钮就能得到该插件的激活码, 粘入到插件的 `Activation Code` 中即可）
 - ~~GitHub Copilot 激活，cocopilot 公车已废弃~~
-- Augment 激活：下载 Augment 插件，点击 Sign In 按钮完成授权，即可无限免费使用 Claude Sonnet 4 系列模型（代码开发和编程最强模型）
+- Augment 激活：下载 Augment 插件，点击 Sign In 按钮【本地授权】，即可无限免费使用 Claude Sonnet 4 系列模型（代码开发和编程最强模型）
 
 ## 配置同步
 
